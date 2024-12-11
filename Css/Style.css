@@ -1,0 +1,194 @@
+*{
+    margin: 0; 
+    padding: 0;
+}
+
+
+.nav{
+    width: 1140px;
+    padding: 12px 80px;
+    margin: auto;
+}
+
+.logo{
+    display: inline-block;
+    padding: 13px;
+    vertical-align: middle;
+}
+
+.header_buttons{
+    display: inline-block;
+  margin: 0 171px;
+  vertical-align: middle;
+}
+
+.nav_items{
+    margin-left: 20px;
+  color: #323232;
+  font-family: Inter;
+  font-size: 18px;
+  text-decoration: none;
+}
+
+.nav a{
+    color: black;
+    text-decoration: none;
+    padding-top: 10px;
+    font-family: 'Inter', sans-serif;
+}
+
+.nav {
+    position: relative; 
+    height: 60px; 
+    padding: 0 20px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.nav ul li {
+    display: inline-block; 
+    margin-right: 15px;
+}
+
+.contact_us{
+    border-radius: 8px;
+  background-color: #00AC25;
+  padding: 8px 16px;
+  color: #FFF;
+  font-family: Inter;
+  font-size: 14px;
+  font-weight: 500;
+  border: 0;
+  vertical-align: middle;
+}
+
+
+.nav ul li:first-child a {
+    font-weight: bold;
+}
+
+.content-box{
+    width: 1316px;
+    height: 543px;
+    margin: 221px auto;
+}
+
+.content-box p{
+    color: #000;
+    text-align: center;
+    font-family: Inter;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.content-box span{
+    color: #FF5DA3 !important;
+    font-family: Inter;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.content-box .text-2{
+    color: #000;
+    text-align: center;
+    font-family: "IBM Plex Sans KR";
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+    padding-top: 24px;
+
+}
+
+.content-box .text-3{
+    color: #000;
+    text-align: center;
+    font-family: "Instrument Sans";
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;    
+    padding-top: 24px;
+    padding-bottom: 20px;
+}
+
+.content-box .text-4{
+    color: #6941C6;
+    text-align: center;
+    font-family: "Hind Vadodara";
+    font-size: 24px;
+    line-height: 32px; 
+    width: 716px;
+    margin: auto;
+    font-weight: 400;
+    padding-bottom: 20px;
+}
+
+.main_button{
+    display: block;
+    margin: auto;
+    padding: 16px 24px;
+    border-radius: 8px;
+    background: #00AC25;
+    border: 0;
+    color: #FFF;
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.footer{
+    padding: 0 32px;
+    margin: auto;
+    width: 1216px;
+}
+
+.footer_nav{
+    display: inline-block;
+    vertical-align: middle;
+    margin: 0 152px;
+}
+
+.footer_items{
+  color: #E9D7FE;
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 24px;
+  margin-left: 32px;
+}
+
+.copyright{
+    color: #D6BBFB;
+    text-align: right;
+    font-family: Inter;
+    font-size: 16px;
+    line-height: 24px;
+    display: inline-block;
+    width: 160px;
+    vertical-align: middle;
+}
+
+.footer_logo{
+    height: 32px;
+    vertical-align: middle;
+}
+
+.footer{
+    padding: 0 32px;
+    margin: auto;
+    width: 1216px;
+}
+
+footer{
+    padding: 48px 0;
+    background-color: #53389E;
+}
